@@ -5,7 +5,7 @@ My name is Fabiola, I'm a Computer Engineering student at Tecnológico de Costa 
 Im very passionate about what I'm studying and I love to learn new things. I consider myself to be a very responsible, creative and proactive leader and person.
 
 ## A little about me
-One thing about me is that I'm quite rigorous with myself, so when I approach a problem I like to really dedicate my time in understanding it fully.
+One thing about me is that I'm quite rigorous with myself, so when I approach a problem I like to really dedicate my time in understanding it fully.I'm also committed to helping create welcoming and supportive environments in engineering and contributing to greater opportunities for women in technology.
 
 ## Most Current Tech Stack
 - **Languages:** C, C++, Python, System Verilog
