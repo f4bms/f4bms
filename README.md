@@ -8,10 +8,9 @@ Im very passionate about what I'm studying and I love to learn new things. I con
 One thing about me is that I'm quite rigorous with myself, so when I approach a problem I like to really dedicate my time in understanding it fully.
 
 ## Most Current Tech Stack
-Languages: 
-C, C++, Java, System Verilog
-Tools:
-QEMU, Linux, Git
+- **Languages:** C, C++, Java, System Verilog
+
+- **Tools:** QEMU, Linux, Git
 
 ## Currently Learning
 Artificial Intelligence: Currently taking an elective course covering Classical & Symbolic AI, Machine Learning, Deep Learning, Natural Language Processing, and Reinforcement Learning.
