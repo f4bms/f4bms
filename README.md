@@ -13,7 +13,7 @@ One thing about me is that I'm quite rigorous with myself, so when I approach a 
 - **Tools:** QEMU, Linux, Git
 
 ## Currently Learning
-Artificial Intelligence: Currently taking an elective course covering Classical & Symbolic AI, Machine Learning, Deep Learning, Natural Language Processing, and Reinforcement Learning.
-Embedded Systems: Currently working with tools and technologies such as Yocto, CMake, and Autotools, while learning about embedded Linux and software development for embedded systems.
+- **Artificial Intelligence:** Currently taking an elective course covering Classical & Symbolic AI, Machine Learning, Deep Learning, Natural Language Processing, and Reinforcement Learning.
+- **Embedded Systems:** Currently working with tools and technologies such as Yocto, CMake, and Autotools, while learning about embedded Linux and software development for embedded systems.
 
 You can find more about me on my Linkedin profile! 
