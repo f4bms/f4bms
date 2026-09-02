@@ -1,6 +1,6 @@
 # Hi there!
 
-My name is Fabiola, I'm a Computer Engineering student at Tecnológico de Costa Rica. I'm passionate about and particularly interested in Computer Architecture, Hardware Acceleration, and Hardware-Software System Design.
+My name is Fabiola, I'm a Computer Engineering student at Tecnológico de Costa Rica. I'm passionate about and particularly interested in Computer Architecture, Semiconductor Manufacturing, Hardware Acceleration, and Hardware-Software System Design.
 
 Im very passionate about what I'm studying and I love to learn new things. I consider myself to be a very responsible, creative and proactive leader and person.
 
